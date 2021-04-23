@@ -1,4 +1,4 @@
-# DocumentManagementSystem
+# Document Management System
 
 ## Screenshot
 ![](/assets/dmsshell.png)
